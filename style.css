@@ -1,0 +1,67 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    display: block;
+}
+.container{
+    width: 1000px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 75px 0px 75px 0px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 25px;
+}
+header{
+    text-align: center;
+    color: #00dd00;
+    font-size: 12px;
+}
+.navigation{
+    background-color: #00dd00;
+    padding: 8px;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.monopattino{
+    width: 500px;
+    margin-left: 9%;
+    border: 2px;
+}
+h2{
+    margin-bottom: 0px;
+}
+p{
+    margin-top: 0px;
+    margin-bottom: 1px;
+    font-size: 12px;
+}
+.orangebar{
+    background-color: #f5b453;
+    width: 60%;
+    padding: 10px; 
+    border-radius: 5px;
+}
+.greenbar{
+    background-color: #1ec31e;
+    width: 100%;
+    padding: 10px; 
+    border-radius: 5px;
+}
+.redbar{
+    background-color: #be4141;
+    width: 30%;
+    padding: 10px; 
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+}
+#Momo{
+    font-size: 25px;
+}
